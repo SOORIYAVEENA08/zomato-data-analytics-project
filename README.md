@@ -23,5 +23,6 @@ Project Outcomes:
 Insights into the delivery preferences of restaurants.
 Identification of popular restaurant types based on customer reviews and ratings.
 Analysis of pricing trends to understand the preferred budget for couples dining out.
+
 This project showcases my ability to analyze real-world datasets and generate actionable insights in the field of data analytics.
 
